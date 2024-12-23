@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>Live2D_For_CQtClass</class>
+ <widget class="QWidget" name="Live2D_For_CQtClass" >
+  <property name="objectName" >
+   <string notr="true">Live2D_For_CQtClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Live2D_For_CQt</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Live2D_For_CQt.qrc"/>
+ </resources>
+ <connections/>
+</UI>

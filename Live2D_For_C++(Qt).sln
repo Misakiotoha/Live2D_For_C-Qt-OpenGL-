@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Live2D_For_C++(Qt)", "Live2D_For_C++(Qt)\Live2D_For_C++(Qt).vcxproj", "{0562B356-2386-48F3-8EFB-02E73D7761F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0562B356-2386-48F3-8EFB-02E73D7761F1}.Debug|x64.ActiveCfg = Debug|x64
+		{0562B356-2386-48F3-8EFB-02E73D7761F1}.Debug|x64.Build.0 = Debug|x64
+		{0562B356-2386-48F3-8EFB-02E73D7761F1}.Release|x64.ActiveCfg = Release|x64
+		{0562B356-2386-48F3-8EFB-02E73D7761F1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4DBCF3-DDAF-4557-853F-4D3BA68B0921}
+	EndGlobalSection
+EndGlobal
