@@ -11,6 +11,8 @@
 #include <Math/CubismMatrix44.hpp>
 #include <Type/csmVector.hpp>
 
+#include <string>
+
 class LAppModel;
 
 /**
@@ -101,6 +103,8 @@ public:
     *           サンプルアプリケーションではモデルセットの切り替えを行う。
     */
     void ChangeScene(Csm::csmInt32 index);
+
+    void LoadModelFromPath(const std::string& modelPath, const std::string& fileName);
 
     /**
      * @brief   モデル個数を得る
